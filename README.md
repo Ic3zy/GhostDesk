@@ -19,4 +19,4 @@
 - "Ayrıcalıklı Uygulamalar" gizleme işleminden etkilenmesini istemediğiniz dosyaları/klasörleri ekleyin.  
 
 ## ⁉ Destek veya Sorular  
-Hata bildirimi veya öneriler için [GitHub Issues](a.com) sayfasını kullanın.  
+Hata bildirimi veya öneriler için [GitHub Issues](https://github.com/Ic3zy/GhostDesk/issues) sayfasını kullanın.  
