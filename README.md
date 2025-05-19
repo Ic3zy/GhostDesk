@@ -9,7 +9,7 @@
 - **Hafif ve Hızlı**: Sistem kaynaklarını tüketmez, arka planda sessizce çalışır.  
 
 ## 📥 Kurulum  
-1. [Son sürümü indirin]([releases](https://github.com/Ic3zy/GhostDesk/releases/tag/Beta))
+1. [Son sürümü indirin](https://github.com/Ic3zy/GhostDesk/releases/tag/Beta)
 2. GhostDesk Setup.exe dosyasını indirip çalıştırın. Kurulum bittikten sonra config programı otomatik olarak çalıştırılacaktır..  
 3. Sistem tepsisindeki simgeden ayarları yapılandırın.  
 
